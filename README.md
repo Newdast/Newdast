@@ -22,7 +22,7 @@ Soon you'll find a curated list of my best projects right here.
 ---
 -->
 
-## I Code With 🧑‍💻
+## I Code With 🖥️
 
 ### 🧑‍💻 Languages & Frameworks  
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
@@ -50,5 +50,5 @@ Soon you'll find a curated list of my best projects right here.
 
 ## Let's Connect 📬
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bruno.david.sotomayor@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bruno-david-sotomayor-7433a92bb/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bruno.david.sotomayor@gmail.com)
