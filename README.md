@@ -29,7 +29,6 @@ Soon you'll find a curated list of my best projects right here.
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### 🛢️ Databases  
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
