@@ -1,7 +1,6 @@
-# Hey 👋 What's up?
+# Bruno David Sotomayor
 
 I'm Bruno, a Backend Developer from Argentina. I enjoy learning new things and improving my skills in web development.
-
 
 ## About Me ☺️
 
@@ -13,14 +12,12 @@ I'm Bruno, a Backend Developer from Argentina. I enjoy learning new things and i
 
 ---
 
-<!-- 
 ## Portfolio 🚀
 
-🚧 Portfolio under construction!  
-Soon you'll find a curated list of my best projects right here.
+For more about me and my best projects, visit my portfolio.  
+💼 [portfolio-bruno-sotomayor.netlify.app](https://portfolio-bruno-sotomayor.netlify.app/)
 
 ---
--->
 
 ## I Code With 🖥️
 
@@ -35,15 +32,24 @@ Soon you'll find a curated list of my best projects right here.
 
 ### ⚙️ DevOps & Tools  
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-<!--
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
--->
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### 🎨 Styling & Markup  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+
+---
+
+### 📘 Learning / In Progress  
+*(Technologies I’m currently studying and plan to include soon)*  
+
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://nextjs.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 
 ---
 
